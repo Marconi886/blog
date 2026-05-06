@@ -1,7 +1,7 @@
-# Blog de Genesis
+# Marconi's Technical Blog
 
-Blog site: marconi886.github.io/blog
 
-Launch date: January 15, 2025
 
-This is Marconi's blog, used to record personal technical articles.
+Launched: 2025-01-15
+URL: marconi886.github.io/blog
+A personal blog for technical writing and notes.
